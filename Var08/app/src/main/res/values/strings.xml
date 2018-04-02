@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTest01Var08</string>
+    <string name="riddleEdit">Riddle</string>
+    <string name="answerEdit">Answer</string>
+    <string name="playButton">Play</string>
+    <string name="app_namet">Play Activity</string>
+    <string name="riddleEditTwo">play Riddle</string>
+    <string name="answerEditTwo">Play Answer</string>
+    <string name="attemptEdit">Attempt</string>
+    <string name="checkButton">Check</string>
+    <string name="backButton">Back</string>
+</resources>

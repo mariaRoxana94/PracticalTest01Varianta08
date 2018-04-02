@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="practicaltest01.eim.systems.cs.pub.ro.practicaltest01var08.PracticalTest01Var02PlayActivity">
+
+    <EditText
+        android:id="@+id/riddle_edit_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="7"
+        android:enabled="false"
+        android:hint="@string/riddleEditTwo"/>
+
+    <EditText
+        android:id="@+id/answer_edit_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="7"
+        android:enabled="false"
+        android:hint="@string/answerEditTwo"/>
+    <EditText
+        android:id="@+id/attempt_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="7"
+        android:hint="@string/attemptEdit"/>
+    <Button
+        android:id="@+id/check_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkButton"/>
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backButton"/>
+
+</LinearLayout>
